@@ -2,4 +2,5 @@
 <dirs>
     <entry loc="C:\Users\VDAB\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657" stamp="1642497348288"/>
     <entry loc="C:\Users\VDAB\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre" stamp="1642497348282"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1642608157633"/>
 </dirs>
